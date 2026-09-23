@@ -102,7 +102,7 @@ employee-dashboard/index.html
 ```
 
 in a web browser.
-<p align="center"> <img src="employee-dashboard/Screenshot 2026-09-23 150201.png" alt="Employee Dashboard Screenshot" width="900"> </p>
+<p align="center"> <img src="Screenshot 2026-09-23 150201.png" alt="Employee Dashboard Screenshot" width="900"> </p>
 
 
 ## CRUD Operations
